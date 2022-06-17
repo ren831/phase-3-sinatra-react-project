@@ -12,4 +12,6 @@ end
 use Rack::JSONBodyParser
 
 # Our application
+use KidsController
+use EventsController
 run ApplicationController
