@@ -8,5 +8,5 @@ Fork and clone
 bundle install
 run rake db:migrate
 run rake db:seed
-run rake server
+run rails server
 if you haven't already, follow directions from frontend [https://github.com/ren831/phase-3-build-3-frontend]

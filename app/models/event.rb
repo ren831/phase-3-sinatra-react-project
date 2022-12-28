@@ -1,4 +1,4 @@
 class Event < ActiveRecord::Base
-  belongs_to :kids
+  belongs_to :kid
   
 end
